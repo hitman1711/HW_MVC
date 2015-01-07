@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "2dK-HF-obm"; */
+"2dK-HF-obm.normalTitle" = "Button";
+
+/* Class = "IBUISegmentedControl"; Qnb-J5-Igl.segmentTitles[0] = "First"; ObjectID = "Qnb-J5-Igl"; */
+"Qnb-J5-Igl.segmentTitles[0]" = "First";
+
+/* Class = "IBUISegmentedControl"; Qnb-J5-Igl.segmentTitles[1] = "Second"; ObjectID = "Qnb-J5-Igl"; */
+"Qnb-J5-Igl.segmentTitles[1]" = "Second";
+
+/* Class = "IBUILabel"; text = "Some bool value"; ObjectID = "bXv-Pm-7CR"; */
+"bXv-Pm-7CR.text" = "Some bool value";

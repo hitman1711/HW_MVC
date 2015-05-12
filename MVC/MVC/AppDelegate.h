@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  HW_MVC
+//  MVC
 //
-//  Created by Артур Сагидулин on 09.11.14.
-//  Copyright (c) 2014 Артур Сагидулин. All rights reserved.
+//  Created by Артур Сагидулин on 12.05.15.
+//  Copyright (c) 2015 Артур Сагидулин. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
